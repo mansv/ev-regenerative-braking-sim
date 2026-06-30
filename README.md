@@ -8,6 +8,8 @@ In modern EVs, efficiency is heavily driven by capturing kinetic energy during d
 
 ## System Architecture
 
+<img width="1316" height="712" alt="image" src="https://github.com/user-attachments/assets/29bd2838-9bd6-4b35-ae4c-6baeb1e5cf39" />
+
 ### 1. Energy Storage System (ESS)
 - Lithium-Ion battery block: 48V nominal, 100 Ah rated capacity
 - Acts as energy source during motoring, dynamic load/sink during regen braking
@@ -30,6 +32,8 @@ In modern EVs, efficiency is heavily driven by capturing kinetic energy during d
 - Complementary gate logic (NOT gate) ensures S1 and S2 never conduct simultaneously
 
 ## Simulation Results
+<img width="956" height="940" alt="final_scope" src="https://github.com/user-attachments/assets/3e7c546b-e04c-4a64-9ad7-2065738f6c24" />
+
 
 Simulated for T = 2.0 s, discrete solver step size 1e-5 s (powergui).
 
